@@ -47,3 +47,11 @@ Feel free to check out my other repositories and connect with me!
 ---
 
 ⭐ If you find this helpful, feel free to star the repo!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
