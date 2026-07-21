@@ -55,6 +55,7 @@ Feel free to check out my other repositories and connect with me!
 | ------- |
 | [0007-reverse-integer](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,16 @@ Feel free to check out my other repositories and connect with me!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
