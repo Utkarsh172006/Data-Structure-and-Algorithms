@@ -76,4 +76,12 @@ Feel free to check out my other repositories and connect with me!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
