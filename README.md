@@ -81,6 +81,7 @@ Feel free to check out my other repositories and connect with me!
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
