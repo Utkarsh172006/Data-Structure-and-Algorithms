@@ -1,18 +1,12 @@
-class Solution 
-{
-    public void rotate(int[] nums, int k) 
-    {
+class Solution {
+    public void rotate(int[] nums, int k) {
+        int[] arr = new int[nums.length];
         int n = nums.length;
-        int temp[] = new int[nums.length];
-        for(int i = 0; i < n; i++)
-        {
-            temp[(i+k)%n] = nums[i];
+        for(int i=0;i<n;i++){
+            arr[(i+k)%n] = nums[i];
+        }  
+        for(int i=0;i<n;i++){
+            nums[i] = arr[i];
         }
-        for(int i=0; i<n ; i++)
-        {
-            nums[i]=temp[i];
-            System.out.print(nums[i]);
-        }
-        System.out.println();
     }
 }
