@@ -88,6 +88,7 @@ Feel free to check out my other repositories and connect with me!
 | [0001-two-sum](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ Feel free to check out my other repositories and connect with me!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Sorting
 |  |
