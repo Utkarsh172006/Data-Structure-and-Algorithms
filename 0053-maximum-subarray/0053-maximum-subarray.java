@@ -2,8 +2,7 @@ class Solution {
     public int maxSubArray(int[] nums) {
 
         // Using Kadane's Algorithm.....
-        if(nums.length == 1)
-        return nums[0];
+        
         int curr_sum = 0;
         int max_sum = Integer.MIN_VALUE; 
         
