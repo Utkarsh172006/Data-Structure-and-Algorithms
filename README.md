@@ -74,6 +74,7 @@ Feel free to check out my other repositories and connect with me!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -89,6 +90,7 @@ Feel free to check out my other repositories and connect with me!
 | [0001-two-sum](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
@@ -141,6 +143,7 @@ Feel free to check out my other repositories and connect with me!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 ## Counting
 |  |
