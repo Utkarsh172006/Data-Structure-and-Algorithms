@@ -66,6 +66,7 @@ Feel free to check out my other repositories and connect with me!
 | [0125-valid-palindrome](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -101,6 +102,7 @@ Feel free to check out my other repositories and connect with me!
 | [0283-move-zeroes](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2460-apply-operations-to-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/3731-find-missing-elements) |
@@ -133,6 +135,7 @@ Feel free to check out my other repositories and connect with me!
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Utkarsh172006/Data-Structure-and-Algorithms/tree/master/2460-apply-operations-to-an-array) |
 ## Quicksort
 |  |
