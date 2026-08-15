@@ -12,6 +12,7 @@ class Solution {
                 end += 2;
             }
         } 
+
         return arr;
     }
 }
